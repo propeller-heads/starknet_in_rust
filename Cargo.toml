@@ -20,11 +20,11 @@ starknet_api = "0.4.1"
 num-traits = "0.2.15"
 starknet = "0.5.0"
 thiserror = "1.0.32"
-cairo-lang-starknet = "2.1.0-rc4"
-cairo-lang-casm = "2.1.0-rc4"
-cairo-lang-runner = "2.1.0-rc4"
-cairo-lang-sierra = "2.1.0-rc4"
-cairo-lang-utils = "2.1.0-rc4"
+cairo-lang-starknet = "2.3.1"
+cairo-lang-casm = "2.3.1"
+cairo-lang-runner = "2.3.1"
+cairo-lang-sierra = "2.3.1"
+cairo-lang-utils = "2.3.1"
 
 [dependencies]
 cairo-lang-starknet = { workspace = true }
